@@ -1,6 +1,6 @@
 # PHYS220/MATH220/CPSC220 CW 11
 
-**Author(s):** **CHANGEME**
+**Author(s):** **Trevor Kling**
 
 ## Specification
 
@@ -39,9 +39,7 @@ This week we will continue the classwork from last week and implement the method
 
 ## Assessment
 
-Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have. You can use the GitHub web interface to edit this file directly for now.
-
-**CHANGEME**
+In this assignment, I found thinking about differential equations as vector equations to be particularly insightful.  The concept of computing multiple differential equations simultaneously via matrix multiplication is a very interesting concept to me, as I know that matrix multiplication is something that computers are very good at.  Additionally, graphical processing units which are capable of massive parallelization are particularly good at matrix operations, so I have to wonder if the program could be offloaded to a GPU to obtain further benefits.
 
 ## Honor Pledge
 
@@ -52,4 +50,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAMES**
+**Trevor Kling**
